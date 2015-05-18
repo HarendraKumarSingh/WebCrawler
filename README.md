@@ -14,8 +14,8 @@ It is a dynamic web application where you provide site url(or multiple sites url
 <li>Start the Crawler by pressing the ‘Start Crawler’ button.</li>
 <li>Result will be in a tabular with two columns ‘URL’ and its corresponding scrapped ‘Email List’.</li></br>
 
-Here you can scrap emails from any site or for any number of sites at once.The result will be list go email scrapped from respective sites/urls.</br></ul>
-It does complete end to end url web page crawling even the html tags attribute values to extract email addresses out of it.
+Here you can scrap emails from any site or for any number of sites at once.The result will be list go email scrapped from respective sites/urls.</br>
+It does complete end to end url web page crawling even the html tags attribute values to extract email addresses out of it.</ul>
 
 # How to Use :
 <ul><li>Deploy the project war in your tomcat and restart your tomcat.</li>
