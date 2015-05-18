@@ -24,8 +24,7 @@ It does complete end to end url web page crawling even the html tags attribute v
 <li>Press Start Crawler to begin email scrapping process from the provided input.</li></ul>
 
 # Sample Input format :   
-<pre><code>http://unlike.net</code>
-<code>http://retreat-vinyl.de/ </code></pre>
+<pre><code>http://unlike.net </code> , <code> http://retreat-vinyl.de/ </code></pre>
 Or some larger mail sites eg : 
 <pre><code>http://mailiddatabase.blogspot.in/ </code></pre>
 
